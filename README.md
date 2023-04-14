@@ -7,3 +7,4 @@ This is an inexpensive way of controlling any device remotely as devices which a
 
 microcontroller used: esp32
 Blynk app is needed to be installed on mobile device
+main code is in 'finalproject.ino'
